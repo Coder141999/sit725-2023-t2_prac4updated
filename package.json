@@ -1,0 +1,26 @@
+{
+    "name": "sit725-2023-t1-prac2-modified",
+    "version": "1.0.1",
+    "description": "A modified version of SIT 725 Prac 2",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Coder141999/sit725-2023-t2_prac4updated.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Coder141999/sit725-2023-t2_prac4updated/issues"
+    },
+    "homepage": "https://github.com/Coder141999/sit725-2023-t2_prac4updated#readme",
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongodb": "^4.4.1",
+      "nodemon": "^3.0.1"
+    }
+  }
+  
